@@ -1,2 +1,2 @@
 # robert-ball.com
-gatsby deployment of robert-ball.com
+deployment of robert-ball.com
